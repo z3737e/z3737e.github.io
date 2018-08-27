@@ -19,7 +19,7 @@ body {
 .cards:hover {
     background-color: rgb(236, 244, 253);
     border: 1px dashed rgb(0, 107, 194);
-    transform: scale(1.05)
+    transform: scale(1.2)
 }
 a {
     text-decoration: unset;
